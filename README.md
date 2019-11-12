@@ -1,14 +1,12 @@
 # About
-This is a POC project for idea: ["English to Bengali phonetic transformation keyboard using Deep Learning" by Shubhashis Karmakar](http://mosaic.sec.samsung.net/kms/mosaicLayout.do?method=link&type=idea.proposal&id=16279799798#6D064E)
-The idea was initialy submitted for Local Idea Contest in SRBD back in September 2018 and got selected. This project is the continuation of that effort.
+This is a POC project for idea: ["English to Bengali phonetic transformation keyboard using Deep Learning" by Tusher]
+
 
 # Dependencies
 - This program uses NVidia Graphics Driver 384 or above &  CUDA 9.0 or above. ** Must export CUDA to PATH
 - TensorFlow 1.12.0 or above
 
 # Setting Up
-
-Please Follow : https://github.sec.samsung.net/RBD8-SRBD/Neural_Keyboard/wiki/Brief-Intro
 
 - Ensure to export following symbols to local machine as well as remote machine (~/.bashrc file):
 	'''
@@ -32,4 +30,5 @@ Recommended setup procedure-
 
 # Contact
 If you are interested & want to contribute to the project in any form, please contact:
-[Shubhashis Karmakar](mailto:shubhashis.k@samsung.com )
+kowsertusher@gmail.com
+
